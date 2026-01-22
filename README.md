@@ -3,6 +3,7 @@ This repository provides a reference implementation of the core network architec
 
 .
 ├── network.py        # KAN-inspired network blocks (KANLayer / KAN_MLP)
+|
 └── function.py       # losses + neighbor input construction utilities
 
 The released code focuses on:
